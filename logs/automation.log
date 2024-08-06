@@ -15,3 +15,32 @@
 01:53:11.103 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
 01:53:12.069 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
 01:53:12.378 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+07:30:54.059 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\mastersuite.xml"
+07:31:01.897 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+07:31:01.898 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+07:31:03.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+07:31:04.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+07:31:04.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+07:31:05.383 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+07:31:05.458 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+07:31:05.461 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+07:31:05.461 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+07:31:11.624 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+07:31:11.625 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+07:31:11.709 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+07:31:12.043 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+07:31:12.045 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+07:31:12.626 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+07:31:12.688 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+05:33:15.804 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\mastersuite.xml"
+05:33:16.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\mastersuite.xml
+
+06:01:21.762 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\testng.xml"
+06:01:22.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\testng.xml
+
+06:13:13.598 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\testng.xml"
+06:13:13.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Testing Tutorials\LECTURES\Day 53\opencart\opencart\testng.xml
+
